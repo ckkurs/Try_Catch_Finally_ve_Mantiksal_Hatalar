@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.exe
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.deps.json
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.dll
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\bin\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.pdb
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.dll
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\refint\Try_Catch_Finally_ve_Mantıksal_Hatalar.dll
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.pdb
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\Try_Catch_Finally_ve_Mantıksal_Hatalar.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Try_Catch_Finally_ve_Mantıksal_Hatalar\obj\Debug\net5.0\ref\Try_Catch_Finally_ve_Mantıksal_Hatalar.dll
